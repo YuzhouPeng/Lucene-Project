@@ -1,6 +1,3 @@
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
-import jdk.internal.org.objectweb.asm.tree.analysis.Analyzer;
-
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
